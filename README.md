@@ -16,4 +16,6 @@ A large fictional European bank has been seeing unusually high churn rates from 
 
 * And the dependent variable, Exited.  Whether they left the bank or not after six months.
 
+This same model is transferable and can be applied to customers of the bank to see whether they are eligible for a loan or not.  All that needs to be done is changed the dependent variable to whether they have defaulted on a loan or not, and take a sample of customers who recieved loans.
+
 
